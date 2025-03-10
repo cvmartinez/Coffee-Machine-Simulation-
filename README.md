@@ -1,4 +1,4 @@
-# Coffee-Machine-Simulation-
+# Coffee-Machine-Simulation
 
 This project is a simple coffee machine simulator implemented in Python. It allows users to select from a menu of coffee drinks, processes payments, and checks resource availability to make the selected drink. The program also provides a report of the current resources and profit.
 
